@@ -11,31 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/eb1f2318dd8db9dcc32b205847e00f7f/res/values/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/andro/ApkProjects/TicTacToc/app/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/eb1f2318dd8db9dcc32b205847e00f7f/res/values/values.xml",
+                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/7dbc8ee448231c78ac9d7d55c08235cc/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

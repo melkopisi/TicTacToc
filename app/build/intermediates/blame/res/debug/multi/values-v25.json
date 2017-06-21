@@ -1,90 +1,5 @@
 [
     {
-        "outputFile": "/home/andro/ApkProjects/TicTacToc/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 70,
-                    "endOffset": 121
-                },
-                "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/c81844900f49a155a7c093f1241da8ea/res/values-v25/values-v25.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 70,
-                        "endOffset": 121
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 126,
-                    "endColumn": 82,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/c81844900f49a155a7c093f1241da8ea/res/values-v25/values-v25.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 126,
-                        "endColumn": 82,
-                        "endOffset": 204
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 209,
-                    "endLine": 5,
-                    "endColumn": 12,
-                    "endOffset": 303
-                },
-                "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/c81844900f49a155a7c093f1241da8ea/res/values-v25/values-v25.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 209,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 303
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 308,
-                    "endLine": 7,
-                    "endColumn": 12,
-                    "endOffset": 414
-                },
-                "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/c81844900f49a155a7c093f1241da8ea/res/values-v25/values-v25.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 308,
-                        "endLine": 7,
-                        "endColumn": 12,
-                        "endOffset": 414
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/home/andro/AndroidStudioProjects/TicTacToc/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
         "map": [
             {
@@ -96,7 +11,7 @@
                     "endOffset": 121
                 },
                 "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/e51442c6b5d61447f3c6bf1c9f615d66/res/values-v25/values-v25.xml",
+                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/4b8aba32362be42c271707aab4bd104a/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -115,7 +30,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/e51442c6b5d61447f3c6bf1c9f615d66/res/values-v25/values-v25.xml",
+                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/4b8aba32362be42c271707aab4bd104a/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -135,7 +50,7 @@
                     "endOffset": 303
                 },
                 "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/e51442c6b5d61447f3c6bf1c9f615d66/res/values-v25/values-v25.xml",
+                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/4b8aba32362be42c271707aab4bd104a/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -156,7 +71,7 @@
                     "endOffset": 414
                 },
                 "from": {
-                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/e51442c6b5d61447f3c6bf1c9f615d66/res/values-v25/values-v25.xml",
+                    "file": "/home/andro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/4b8aba32362be42c271707aab4bd104a/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

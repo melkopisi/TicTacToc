@@ -23,7 +23,7 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginTop="8dp"
-      android:text="Player vs, Player"
+      android:text="Player vs. Player"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintLeft_toLeftOf="parent"
       app:layout_constraintRight_toRightOf="parent"
